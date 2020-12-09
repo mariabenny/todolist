@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+}
+
+
+#img-decor{
+    margin-left: 2em;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.btn-decor{
+    margin-left: 42em;
+    font-size: larger;
+}
+.head-decor{
+    margin-left: 12px;
+    font-size: larger;
+}
+
+/* form */
+#login-desc{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+}
+.form-decor{
+    border: 3px solid black;
+    border-radius: 3%;
+    padding: 20px;
+    margin-top: 4%;
+    margin-left: 32%;
+}
+.sign-btn{
+    margin-left: 40%;
+    margin-bottom: 3%;
+}
+.form-head{
+    text-align: center;
+    font-family: Comic;
+    background-color: rgb(229, 240, 84);
+    padding: 3px;
+    color: green;
+}
+#labels{
+    font-weight: bold;
+    background-color: yellowgreen;
+    padding: 3px;
+    color: red;
+}
+#msg{
+    color: black;
+    background-color: rgb(250, 218, 131);
+    font-weight: bold;
+    font-family: Fantasy;
+    font-size: 150%;
+}
+
+/* description */
+.desc{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#desc-head{
+    font-size: 250%;
+    font-weight: bold;
+}
+#desc-decor{
+    font-size: 150%;
+    font-weight: bold;
+}
+
+/* todo list */
+#todo-head{
+    text-align: center;
+    background-color: rgb(250, 233, 167);
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+}
+table{
+    margin-top: 3%;
+    margin-left: 20%;
+    background-color: yellowgreen;
+}
+table,th,td{
+    border: 2px solid rgb(77, 92, 223);
+    padding: 5px;
+    text-align: center;
+}
+th{
+    text-transform: uppercase;
+    color: white;
+    background-color:green;
+}
+#list-body{
+    background-image: src: download.jpg;
+    background-size: contain;
+    background-attachment: fixed;
+} 
